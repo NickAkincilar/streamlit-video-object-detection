@@ -7,3 +7,4 @@ streamlit==1.9.0
 streamlit_webrtc==0.37.0
 typing_extensions==4.1.1
 protobuf~=3.19.0
+snowflake-connector-python==2.7.6
